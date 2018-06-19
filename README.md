@@ -1,5 +1,5 @@
 # vg-vm-video-blocker
-Removes the autoplaying videos from VGs 2018 World Cup site. 
+Removes the (annoying) autoplaying videos from VGs 2018 World Cup site. 
 
 # How to install
 1. Clone repository
