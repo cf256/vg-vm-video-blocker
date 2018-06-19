@@ -1,0 +1,12 @@
+{
+  "name": "VG VM video fjerner",
+  "description": "Fjerner video elementet i VGs VM sider.",
+  "version": "0.0.2",
+  "content_scripts": [
+    {
+      "matches": ["*://*.vg.no/spesial/2018/fotball-vm/*"],
+      "js": ["vgvmvideoblock.js"]
+    }
+  ],
+  "manifest_version": 2
+}
