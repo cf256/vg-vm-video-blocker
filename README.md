@@ -2,10 +2,10 @@
 Removes the (annoying) autoplaying videos from VGs 2018 World Cup site. 
 
 ## Before:
-![](media/before.png)
+![](media/before.PNG)
 
 ## After:
-![](media/after.png)
+![](media/after.PNG)
 
 # How to install
 1. Clone repository
