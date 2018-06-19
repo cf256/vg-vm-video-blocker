@@ -1,6 +1,12 @@
 # vg-vm-video-blocker
 Removes the (annoying) autoplaying videos from VGs 2018 World Cup site. 
 
+## Before:
+![](media/before.png)
+
+## After:
+![](media/after.png)
+
 # How to install
 1. Clone repository
 2. Open the Extension Management page by navigating to chrome://extensions OR The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
